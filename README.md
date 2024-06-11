@@ -2,8 +2,9 @@
 <p>A Python based Password manager to manage all of your passwords.<p/>
 
 <h2>Installation:</h2>
-- sudo apt update && upgrade -y
 
+- sudo apt update && upgrade -y
+  
 - python3 password_manager.py
 
 <h2>Usage:</h2>
