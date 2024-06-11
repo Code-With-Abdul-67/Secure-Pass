@@ -17,9 +17,7 @@
 
 
 
-<p>Automatically saves the website name, your username and your password and you can access it<p/>
-
-<p>A security authetication feature is also added to keep your passwords save<p/>
+<p>Automatically saves the website name, your username and your password and you can access it, security authetication feature is also added to keep your passwords save<p/>
 
 
 
