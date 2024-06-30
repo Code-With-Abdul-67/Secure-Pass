@@ -1,5 +1,34 @@
 import os
 
+def print_banner():
+    banner = """ 
+\033[38;2;0;100;0m
+
+
+.▄▄ · ▄▄▄ . ▄▄· ▄• ▄▌▄▄▄  ▄▄▄ .     ▄▄▄· ▄▄▄· .▄▄ · .▄▄ · 
+▐█ ▀. ▀▄.▀·▐█ ▌▪█▪██▌▀▄ █·▀▄.▀·    ▐█ ▄█▐█ ▀█ ▐█ ▀. ▐█ ▀. 
+▄▀▀▀█▄▐▀▀▪▄██ ▄▄█▌▐█▌▐▀▀▄ ▐▀▀▪▄     ██▀·▄█▀▀█ ▄▀▀▀█▄▄▀▀▀█▄
+▐█▄▪▐█▐█▄▄▌▐███▌▐█▄█▌▐█•█▌▐█▄▄▌    ▐█▪·•▐█ ▪▐▌▐█▄▪▐█▐█▄▪▐█
+ ▀▀▀▀  ▀▀▀ ·▀▀▀  ▀▀▀ .▀  ▀ ▀▀▀     .▀    ▀  ▀  ▀▀▀▀  ▀▀▀▀ 
+
+\033[0m
+    
+
+<<<<<==================================================>>>>>
+                        Secure-Pass
+        A Command Line Python Based Password Manager 
+<<<<<==================================================>>>>>
+                 Made by 0x-Cyber-Lunerr
+                       Version 1.0
+<<<<<==================================================>>>>>
+
+
+
+    """
+
+    print(banner)
+
+
 PASSWORD_FILE = "passwords.txt"
 WEBSITE_FILE = "websites.txt"
 MASTER_PASSWORD_FILE = "master_password.txt"
@@ -109,6 +138,7 @@ def get_password(passwords):
         print("Invalid input.")
 
 def main():
+    print_banner()
     if not authenticate():
         return
 
