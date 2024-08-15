@@ -16,8 +16,8 @@
 - python3 password_manager.py
 
 
-
 <p>Automatically saves the website name, your username and your password and you can access it, security authetication feature is also added to keep your passwords save<p/>
 
+<o>The Tool supports Windows now as well</p>
 
 
