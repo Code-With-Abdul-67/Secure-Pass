@@ -18,6 +18,8 @@
 
 <p>Automatically saves the website name, your username and your password and you can access it, security authetication feature is also added to keep your passwords save<p/>
 
+<h2>Version: 1.0 (Windows Support Update)</h2>
+
 <o>The Tool supports Windows now as well</p>
 
 
