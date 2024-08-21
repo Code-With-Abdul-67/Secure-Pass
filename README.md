@@ -23,3 +23,12 @@
 <o>The Tool supports Windows now as well</p>
 
 
+<h2>Tested On:</h2>
+
+- Windows
+- Arch Linux
+- Kali Linux
+    
+
+
+
