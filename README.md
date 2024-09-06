@@ -1,7 +1,7 @@
 # Secure-Pass
 <p>A Python based Password manager to manage all of your passwords.<p/>
 
-<h2>Installation:</h2
+<h2>Installation:</h2>
 
 <h3>-For Kali Linux</h3>
 
