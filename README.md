@@ -37,7 +37,7 @@
 
 <h2>Tested On:</h2>
 
-- Windows
+- Windows 10
 - Arch Linux
 - Kali Linux
     
